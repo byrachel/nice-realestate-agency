@@ -120,30 +120,28 @@ header {
 .outlined {
     position: absolute;
     border: solid 20px white;
-    top: -25px;
+    top: -15px;
     width: 350px;
     left: 5%;
 }
 
 .nice {
     position: absolute;
-    top: 70px;
+    top: 100px;
     left: 40%;
-    width: 280px;
+    width: 290px;
 }
 
 .bellicardi {
     position: absolute;
-    width: 180px;
-    left: 20%;
-    top: 180px;
+    width: 190px;
+    left: 15%;
+    top: 210px;
 }
 
 #vision, footer {
     background-color: #0f5365;
 }
-
-
 
 .mini-slider {
     width: 370px;
@@ -151,7 +149,7 @@ header {
 }
 
 .nos-services, .nous-contacter, .notre-vision {
-    padding: 25px 125px;
+    padding: 25px 80px;
 }
 
 .icone {
